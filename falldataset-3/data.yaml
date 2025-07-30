@@ -1,0 +1,13 @@
+names:
+- Fall
+- NotFall
+nc: 2
+roboflow:
+  license: Public Domain
+  project: falldataset-53lvn
+  url: https://universe.roboflow.com/labels-acgyh/falldataset-53lvn/dataset/3
+  version: 3
+  workspace: labels-acgyh
+test: ../test/images
+train: ../train/images
+val: ../valid/images

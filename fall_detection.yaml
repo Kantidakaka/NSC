@@ -1,0 +1,6 @@
+path: /mnt/data/dataset  # Replace with the path to your dataset
+train: train/images      # Relative path to the training images
+val: val/images          # Relative path to the validation images
+
+nc: 1                    # Number of classes (for fall detection, 1 class: "fall")
+names: ['fall']          # Names of the classes 
